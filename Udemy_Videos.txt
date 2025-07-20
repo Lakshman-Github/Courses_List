@@ -3,6 +3,8 @@ Quantitate Aptitude
 Java Data Structure and Algorithm
 Tableau
 Informatica
+Active Listening
 Adobe Premier Pro
 
-Udemy_Total_Videos: 1330
+
+Udemy_Total_Videos: 1384
