@@ -5,9 +5,6 @@ Tableau
 Informatica
 Active Listening
 Adobe Premier Pro
-Hindi Masterclass
-Communication Masterclass Level-1
-Communication Masterclass Level-2
 
 
-Total_Videos: 1647
+Total_Videos: 1400
