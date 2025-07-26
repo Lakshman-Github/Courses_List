@@ -5,6 +5,8 @@ Tableau
 Informatica
 Active Listening
 Adobe Premier Pro
+Communication Masterclass Level-1
+Communication Masterclass Level-2
 
 
-Udemy_Total_Videos: 1384
+Total_Videos: 1384
